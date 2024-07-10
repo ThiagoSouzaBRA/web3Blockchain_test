@@ -1,0 +1,11 @@
+{
+  "name": "web3blockchain_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Thiago Souza",
+  "license": "ISC"
+}
